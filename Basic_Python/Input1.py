@@ -1,0 +1,10 @@
+import os
+os.system('cls')
+# name=input("What is your name:")
+# print(name)
+# print(type(name))
+# value1=input("Enter the first nunber:")
+# value2=input("Enter the second number:")
+value1=int(input("Enter the first nunber:"))
+value2=int(input("Enter the second number:"))
+print("Total=",value1+value2)
